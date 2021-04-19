@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "cloudblocks:cloud"
+          "name": "cloudblocks:soft_cloud"
         }
       ],
       "conditions": [

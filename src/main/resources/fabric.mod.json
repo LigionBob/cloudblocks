@@ -20,11 +20,12 @@
   "entrypoints": {
     "main": [
       "ligionbob.cloudblocks.CloudBlocks"
+    ],
+    "client": [
+      "ligionbob.cloudblocks.CloudBlocksClient"
     ]
   },
-  "mixins": [
-    "cloudblocks.mixins.json"
-  ],
+  "mixins": [],
 
   "depends": {
     "fabricloader": ">=0.7.4",

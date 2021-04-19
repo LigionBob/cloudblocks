@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "cloudblocks:block/cloud"
+    "all": "cloudblocks:block/solid_cloud"
   }
 }
 
