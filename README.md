@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Cloud Block Mod
 
-## Setup
+# Description
+Adds various cloud blocks to minecraft
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# License
+This mod used the GNU GPL v3.0 license
